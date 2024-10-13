@@ -33,10 +33,10 @@ html::-webkit-scrollbar{
   width: .8rem;
 }
 html::-webkit-scrollbar-track{
-  background: rgb(235, 202, 245);
+  background: #C4DAD2;
 }
 html::-webkit-scrollbar-thumb{
-  background: #420177;
+  background: #16423C;
 }
 
 /* pre loader start */
